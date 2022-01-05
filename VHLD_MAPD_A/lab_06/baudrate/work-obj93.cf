@@ -1,0 +1,7 @@
+v 4
+file . "baudrate.vhd" "60f642890a087b8642290b02c41805e8820f8074" "20210108180016.567":
+  entity baudrate at 1( 0) + 0 on 61;
+  architecture rtl of baudrate at 11( 187) + 0 on 62;
+file . "baudrate_tb.vhd" "f50c159a1c179298a10a183897989ce4ab85bb6f" "20210108160958.164":
+  entity baudrate_tb at 1( 0) + 0 on 53;
+  architecture tb of baudrate_tb at 7( 91) + 0 on 54;

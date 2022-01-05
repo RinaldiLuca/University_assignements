@@ -1,0 +1,10 @@
+v 4
+file . "sync_tb.vhd" "7e75d4f8e9e12ca8eb5199653de373f39d67d748" "20201223152713.150":
+  entity sync_tb at 1( 0) + 0 on 11;
+  architecture tb of sync_tb at 7( 75) + 0 on 12;
+file . "dff.vhd" "c9b9f4fea26fa29ed8ce78f0518efdc5ee0c5de9" "20201223152713.150":
+  entity dff at 1( 0) + 0 on 15;
+  architecture rtl of dff at 10( 180) + 0 on 16;
+file . "sync.vhd" "73a8d22a50731a081ef7d1f15ba576c4e7467a3f" "20201223152713.150":
+  entity sync at 1( 0) + 0 on 13;
+  architecture rtl of sync at 11( 165) + 0 on 14;

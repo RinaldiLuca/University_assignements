@@ -1,0 +1,7 @@
+v 4
+file . "sampler_generator.vhd" "73bde91e88b8ce424780269e76675e702d9fa81e" "20210113105341.699":
+  entity sampler_generator at 1( 0) + 0 on 53;
+  architecture rtl of sampler_generator at 12( 238) + 0 on 54;
+file . "sampler_generator_tb.vhd" "f94ed83efe376b79ab426d14a7dbd646bbb8fb07" "20210112210129.214":
+  entity sampler_generator_tb at 1( 0) + 0 on 25;
+  architecture tb of sampler_generator_tb at 7( 109) + 0 on 26;

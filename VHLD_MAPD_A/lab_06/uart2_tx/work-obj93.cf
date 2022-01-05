@@ -1,0 +1,13 @@
+v 4
+file . "uart_tx.vhd" "884852a07bf61cab1206e313c2f92ba1ee4d9161" "20210108210933.000":
+  entity uart_tx at 1( 0) + 0 on 13;
+  architecture rtl of uart_tx at 13( 262) + 0 on 14;
+file . "baudrate.vhd" "60f642890a087b8642290b02c41805e8820f8074" "20210108210933.000":
+  entity baudrate at 1( 0) + 0 on 15;
+  architecture rtl of baudrate at 11( 187) + 0 on 16;
+file . "tx_sm.vhd" "4f0efdbce515e0727970820986f4259f8c90eace" "20210110161554.040":
+  entity tx_sm at 1( 0) + 0 on 41;
+  architecture rtl of tx_sm at 14( 320) + 0 on 42;
+file . "uart_tb.vhd" "bbcb0933ec1a55ad8c5b2e62fe15ab5c1f17f0ec" "20210108220643.328":
+  entity uart_tb at 1( 0) + 0 on 31;
+  architecture tb of uart_tb at 7( 83) + 0 on 32;

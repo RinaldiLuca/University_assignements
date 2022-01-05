@@ -1,0 +1,7 @@
+v 4
+file . "patterndetect.vhd" "f63c1d290e13b8719547884f1fa0016c52f76c1b" "20210107185712.949":
+  entity patterndetect at 1( 0) + 0 on 13;
+  architecture rtl of patterndetect at 12( 205) + 0 on 14;
+file . "patterndetect_tb.vhd" "8f2bb888c68b5001f0daabd37d77ac0a398e6428" "20210107185712.949":
+  entity patterndetect_tb at 1( 0) + 0 on 11;
+  architecture tb of patterndetect_tb at 7( 101) + 0 on 12;
